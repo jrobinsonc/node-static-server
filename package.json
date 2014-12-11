@@ -1,0 +1,23 @@
+{
+  "name": "static-server",
+  "description": "A simple static file server.",
+  "version": "1.0.0",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": {
+    "name": "Jose Robinson",
+    "url": "http://joserobinson.com"
+  },
+  "repository": { 
+    "type": "git",
+    "url": "http://github.com/jrobinsonc/node-static-server.git"
+  },
+  "dependencies": {
+    "mime": "^1.2.11",
+    "url": "^0.10.1"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
