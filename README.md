@@ -7,9 +7,11 @@ A simple static file server.
 **1. Install dependencies:**
 
     $ npm install
+    
+**2. Put your files into the ``www`` folder.**
 
-**2. Run server:**
+**3. Run server:**
 
     $ node server
 
-**3. And enjoy.**
+**4. And enjoy.**
